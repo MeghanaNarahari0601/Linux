@@ -1,0 +1,16 @@
+cd - change directory
+mv - move files and directories / rename files and directories
+ls -list contents of a directory
+pwd - print current working directory
+mkdir - make new directory
+more - display contents of a file
+cp - copy files
+rm - remove files
+groups - list the groups you are in
+rmdir - remove empty directory
+chmod - change file permissions
+* - wildcard that represents all files
+rwx - read, write, execute
+o - all users
+u - user
+g - group
